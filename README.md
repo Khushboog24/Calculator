@@ -1,1 +1,1 @@
-# Calculator
+A simple phone-type calculator
